@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Arlink Starter Blog`,
+    title: `Saitama's Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Saitama`,
+      summary: `Who is a gateway runner on ARIO mainnet.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A starter blog demonstrating what Saitama can do.`,
+    siteUrl: `https://network-portal.app/#/gateways/KG8TlcWk-8pvroCjiLD2J5zkG9rqC6yYaBuZNqHEyY4`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `TornaVida20`,
     },
   },
   plugins: [
